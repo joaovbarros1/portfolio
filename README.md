@@ -1,6 +1,7 @@
 
 
 # Olá, Bem vindo ao meu projeto de portfólio.
+  Esse projeto foi elaborado a partir da realização de um curso da Alura sobre conceitos de HTML e CSS.
 
 ![projeto](https://github.com/joaovbarros1/portfolio/assets/85634598/9ccc51be-0ac4-4ac4-a925-e849c92d3a5d)
 
