@@ -19,6 +19,8 @@
 
 ### João Victor de Barros
 
+## Acesse o projeto: https://portfolio-plum-three-52.vercel.app/
+
 ### Linkedin: https://www.linkedin.com/in/jo%C3%A3o-victor-de-barros-17851617b/
 
 
